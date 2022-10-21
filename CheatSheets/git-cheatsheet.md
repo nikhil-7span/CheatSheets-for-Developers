@@ -75,6 +75,9 @@ Table of Contents
 | Command | Description |
 | ------- | ----------- |
 | `git log` | View changes |
+| `git log -p`| Shows the commit's history including all files and their changes |
+| `git show commit-id` | Replace commit-id with the id of the commit that you find in the commit log after the word commit.
+
 
 **[🔼Back to Top](#table-of-contents)**
 
